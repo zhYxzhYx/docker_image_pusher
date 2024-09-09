@@ -1,10 +1,10 @@
 
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/list:最新
-#支持指定架构
--platform = Linux/arm 64 xiaoya Liu/list
+# 支持私库
+# k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+# xhofe/list:最新
+# 支持指定架构
+# -platform = Linux/arm 64刘/list
 
 
 # 
-docker pull linzeyi/hivision_idphotos:latest
+docker pull linzeyi/hi vision _ id photos:最新
