@@ -6,5 +6,5 @@
 # -platform = Linux/arm 64刘/list
 
 
-# 
-docker pull linzeyi/hi vision _ id photos:最新
+# Ai 生成证件照
+linzeyi/hivision_idphotos:latest
