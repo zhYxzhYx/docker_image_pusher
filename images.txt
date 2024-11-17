@@ -9,7 +9,11 @@
 # Ai 生成证件照
 linzeyi/hivision_idphotos:latest
 
-# ERP 
-frappe/erpnext:v15.35.0
-mariadb:10.6
-redis:6.2-alpine
+# portainer-ce
+portainer/portainer-ce:2.9.3
+
+# ddns-go
+jeessy/ddns-go:latest
+
+# JupyterLab
+andreper/jupyterlab:latest
