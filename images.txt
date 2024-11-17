@@ -6,8 +6,6 @@
 # -platform = Linux/arm 64刘/list
 
 
-# Ai 生成证件照
-linzeyi/hivision_idphotos:latest
 
 # portainer-ce
 portainer/portainer-ce:2.9.3
@@ -20,3 +18,6 @@ andreper/jupyterlab:latest
 
 # 迅雷
 cnk3x/xunlei:latest
+
+# Ai 生成证件照
+linzeyi/hivision_idphotos:latest
