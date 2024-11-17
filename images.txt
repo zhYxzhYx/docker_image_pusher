@@ -17,3 +17,6 @@ jeessy/ddns-go:latest
 
 # JupyterLab
 andreper/jupyterlab:latest
+
+# 迅雷
+cnk3x/xunlei:latest
