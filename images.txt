@@ -24,3 +24,6 @@ cnk3x/xunlei:latest
 
 # Ai 生成证件照
 linzeyi/hivision_idphotos:latest
+
+# Linux 版微信
+ricwang/docker-wechat:latest
