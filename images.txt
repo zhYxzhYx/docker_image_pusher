@@ -14,7 +14,7 @@ portainer/portainer-ce:2.9.3
 jeessy/ddns-go:latest
 
 # Openresty
-openresty:latest
+openresty/openresty:latest
 
 # Nginx
 nginx:latest
