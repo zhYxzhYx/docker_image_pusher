@@ -19,18 +19,23 @@ nginx:latest
 # JupyterLab
 andreper/jupyterlab:latest
 
-# 迅雷
+
+
+# ----- 工具类 -----
+# xunlei - 下载工具
 cnk3x/xunlei:latest
 
-# Ai 生成证件照
+# hivision-idphotos - Ai 生成证件照
 linzeyi/hivision_idphotos:latest
 
-# Linux 版微信
+# photopea - Web 版 PS
+kovaszab/photopea:latest
+
+# docker-wechat - Web 版微信
 ricwang/docker-wechat:latest
 
 
 
-# ----- 1Panel 镜像 -----
 
 # openresty
 1panel/openresty:1.21.4.3-3-3-focal
