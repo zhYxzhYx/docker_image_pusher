@@ -17,7 +17,7 @@ linzeyi/hivision_idphotos:latest
 
 # photopea - Web 版 photoshop
 #kovaszab/photopea:latest
-eorendel/photopea:1.0
+eorendel/photopea:latest
 
 # docker-wechat - Web 版微信
 ricwang/docker-wechat:latest
