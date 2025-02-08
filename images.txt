@@ -15,7 +15,7 @@ cnk3x/xunlei:latest
 # hivision-idphotos - Ai 生成证件照
 linzeyi/hivision_idphotos:latest
 
-# photopea - Web 版 PS
+# photopea - Web 版 photoshop
 kovaszab/photopea:latest
 
 # docker-wechat - Web 版微信
