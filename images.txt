@@ -1,23 +1,10 @@
 
-# 支持私库
-# k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-# xhofe/list:最新
-# 支持指定架构
-# -platform = Linux/arm 64刘/list
-
-
-
-# portainer-ce
-portainer/portainer-ce:2.9.3
-
+# ----- 网络类 -----
 # ddns-go
 jeessy/ddns-go:latest
 
 # Nginx
 nginx:latest
-
-# JupyterLab
-andreper/jupyterlab:latest
 
 
 
@@ -36,6 +23,21 @@ ricwang/docker-wechat:latest
 
 
 
+# ----- 暂未使用 -----
+# portainer-ce
+# portainer/portainer-ce:2.9.3
+
+# JupyterLab
+# andreper/jupyterlab:latest
 
 # openresty
-1panel/openresty:1.21.4.3-3-3-focal
+# 1panel/openresty:1.21.4.3-3-3-focal
+
+
+
+# ----- 实用方法 -----
+# 支持私库
+# k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+# xhofe/list:最新
+# 支持指定架构
+# -platform = Linux/arm 64刘/list
