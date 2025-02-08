@@ -16,7 +16,8 @@ cnk3x/xunlei:latest
 linzeyi/hivision_idphotos:latest
 
 # photopea - Web 版 PS
-kovaszab/photopea:latest
+#kovaszab/photopea:latest
+eorendel/photopea:latest
 
 # docker-wechat - Web 版微信
 ricwang/docker-wechat:latest
