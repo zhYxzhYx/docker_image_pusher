@@ -15,6 +15,9 @@ cnk3x/xunlei:latest
 # hivision-idphotos - Ai 生成证件照
 linzeyi/hivision_idphotos:latest
 
+# metabase - 商业 BI 工具
+metabase/metabase:latest
+
 # photopea - Web 版 photoshop
 #kovaszab/photopea:latest
 eorendel/photopea:latest
