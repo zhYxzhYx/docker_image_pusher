@@ -28,13 +28,11 @@ ricwang/docker-wechat:latest
 # gitlab-ce - GitLab 社区版
 gitlab/gitlab-ce:latest
 
-# postgres - PostgreSQL 对象-关系型数据库
-postgres:latest
-
 # metabase - 商业 BI 工具
 metabase/metabase:latest
 
-
+# postgres - PostgreSQL 对象-关系型数据库
+postgres:latest
 
 
 
