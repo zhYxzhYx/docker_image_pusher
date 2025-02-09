@@ -15,9 +15,6 @@ cnk3x/xunlei:latest
 # hivision-idphotos - Ai 生成证件照
 linzeyi/hivision_idphotos:latest
 
-# metabase - 商业 BI 工具
-metabase/metabase:latest
-
 # photopea - Web 版 photoshop
 #kovaszab/photopea:latest
 eorendel/photopea:latest
@@ -30,6 +27,14 @@ ricwang/docker-wechat:latest
 # ----- 开发类 -----
 # gitlab-ce - GitLab 社区版
 gitlab/gitlab-ce:latest
+
+# postgres - PostgreSQL 对象-关系型数据库
+postgres:latest
+
+# metabase - 商业 BI 工具
+metabase/metabase:latest
+
+
 
 
 
