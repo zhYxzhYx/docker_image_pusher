@@ -16,8 +16,7 @@ cnk3x/xunlei:latest
 linzeyi/hivision_idphotos:latest
 
 # photopea - Web 版 photoshop
-#kovaszab/photopea:latest
-eorendel/photopea:latest
+kovaszab/photopea:latest
 
 # docker-wechat - Web 版微信
 ricwang/docker-wechat:latest
@@ -31,8 +30,12 @@ gitlab/gitlab-ce:latest
 # metabase - 商业 BI 工具
 metabase/metabase:latest
 
-# postgres - PostgreSQL 对象-关系型数据库
-postgres:latest
+
+
+
+
+
+
 
 
 
