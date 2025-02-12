@@ -3,6 +3,9 @@
 # ddns-go
 jeessy/ddns-go:latest
 
+# openvpn - VPN 服务
+openvpn/openvpn-as:latest
+
 # Nginx
 nginx:latest
 
