@@ -3,12 +3,6 @@
 # ddns-go
 jeessy/ddns-go:latest
 
-# openvpn - VPN 服务
-openvpn/openvpn-as:latest
-
-# Nginx
-nginx:latest
-
 
 
 # ----- 工具类 -----
@@ -17,9 +11,6 @@ cnk3x/xunlei:latest
 
 # hivision-idphotos - Ai 生成证件照
 linzeyi/hivision_idphotos:latest
-
-# photopea - Web 版 photoshop
-kovaszab/photopea:latest
 
 # docker-wechat - Web 版微信
 ricwang/docker-wechat:latest
@@ -43,14 +34,19 @@ metabase/metabase:latest
 
 
 # ----- 暂未使用 -----
+# openresty
+# 1panel/openresty:1.21.4.3-3-3-focal
+
+# Nginx
+# nginx:latest
+
 # portainer-ce
 # portainer/portainer-ce:2.9.3
 
 # JupyterLab
 # andreper/jupyterlab:latest
 
-# openresty
-# 1panel/openresty:1.21.4.3-3-3-focal
+
 
 
 
