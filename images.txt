@@ -9,6 +9,9 @@ jeessy/ddns-go:latest
 # xunlei - 下载工具
 cnk3x/xunlei:latest
 
+# qbittorrent - 种子下载工具
+linuxserver/qbittorrent:latest
+
 # hivision-idphotos - Ai 生成证件照
 linzeyi/hivision_idphotos:latest
 
