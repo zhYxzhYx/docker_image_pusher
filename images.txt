@@ -6,6 +6,9 @@
 # MySQL - 数据库
 mysql:8.4.4
 
+# adminer - 数据库管理
+adminer:4.8.1-standalone
+
 
 
 # ----- 网络类 -----
