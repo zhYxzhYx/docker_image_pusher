@@ -1,10 +1,16 @@
 
+# ----- 1Panel 软件类 -----
+# openresty - 反向代理
+1panel/openresty:1.21.4.3-3-3-focal
+
+# MySQL - 数据库
+mysql:8.4.4
+
+
+
 # ----- 网络类 -----
 # ddns-go - 域名解析
 jeessy/ddns-go:latest
-
-# openresty - Web 反向代理
-1panel/openresty:latest
 
 
 
