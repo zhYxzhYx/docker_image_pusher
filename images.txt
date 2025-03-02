@@ -9,8 +9,11 @@ jeessy/ddns-go:v6.8.1
 # MySQL - 数据库
 mysql:8.4.4
 
+# - 数据库管理
+phpmyadmin:5.2.2
+
 # adminer - 数据库管理
-adminer:4.8.1-standalone
+#adminer:4.8.1-standalone
 
 
 
