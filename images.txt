@@ -39,6 +39,9 @@ ricwang/docker-wechat:latest
 # gitlab-ce - GitLab 社区版
 gitlab/gitlab-ce:latest
 
+# drawdb - 数据库设计工具
+xinsodev/drawdb:latest
+
 # metabase - 商业 BI 工具
 metabase/metabase:latest
 
