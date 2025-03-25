@@ -49,8 +49,7 @@ gitlab/gitlab-ce:latest
 xinsodev/drawdb:latest
 
 # minio - 分布式对象存储
-# minio/minio:latest
-bitnami/minio:latest
+minio/minio:latest
 
 
 
