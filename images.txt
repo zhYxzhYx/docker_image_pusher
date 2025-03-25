@@ -36,6 +36,9 @@ ricwang/docker-wechat:latest
 # metabase - 商业 BI 工具
 metabase/metabase:latest
 
+# filecodebox - 文件快递柜
+lanol/filecodebox:latest
+
 
 
 # ----- 开发类 -----
@@ -45,9 +48,8 @@ gitlab/gitlab-ce:latest
 # drawdb - 数据库设计工具
 xinsodev/drawdb:latest
 
-# filecodebox - 文件快递柜
-lanol/filecodebox:latest
-
+# minio - 分布式对象存储
+minio/minio:latest
 
 
 
