@@ -33,6 +33,9 @@ linzeyi/hivision_idphotos:latest
 # docker-wechat - Web 版微信
 ricwang/docker-wechat:latest
 
+# metabase - 商业 BI 工具
+metabase/metabase:latest
+
 
 
 # ----- 开发类 -----
@@ -42,8 +45,8 @@ gitlab/gitlab-ce:latest
 # drawdb - 数据库设计工具
 xinsodev/drawdb:latest
 
-# metabase - 商业 BI 工具
-metabase/metabase:latest
+# filecodebox - 文件快递柜
+lanol/filecodebox:latest
 
 
 
