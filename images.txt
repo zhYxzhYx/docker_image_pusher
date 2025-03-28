@@ -6,17 +6,17 @@ jeessy/ddns-go:v6.8.1
 # openresty - 反向代理
 1panel/openresty:1.21.4.3-3-3-focal
 
+
+
+# ----- 开发类 -----
 # MySQL - 数据库
 mysql:8.4.4
 
-# - 数据库管理
-phpmyadmin:5.2.2
+# minio - 分布式对象存储
+minio/minio:latest
 
-# adminer - 数据库管理
-#adminer:4.8.1-standalone
-
-
-
+# gitlab-ce - 代码仓库社区版
+gitlab/gitlab-ce:latest
 
 
 
@@ -39,17 +39,11 @@ metabase/metabase:latest
 # filecodebox - 文件快递柜
 lanol/filecodebox:latest
 
-
-
-# ----- 开发类 -----
-# gitlab-ce - GitLab 社区版
-gitlab/gitlab-ce:latest
-
 # drawdb - 数据库设计工具
 xinsodev/drawdb:latest
 
-# minio - 分布式对象存储
-minio/minio:latest
+
+
 
 
 
