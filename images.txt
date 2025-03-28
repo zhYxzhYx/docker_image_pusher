@@ -15,7 +15,7 @@ mysql:8.4.4
 # minio - 分布式对象存储
 minio/minio:latest
 
-# gitlab-ce - 代码仓库社区版
+# gitlab-ce - 代码仓库 (社区版)
 gitlab/gitlab-ce:latest
 
 
