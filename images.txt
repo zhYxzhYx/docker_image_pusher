@@ -45,6 +45,9 @@ xinsodev/drawdb:latest
 # pdf2zh - PDF 翻译
 byaidu/pdf2zh:latest
 
+# stirling-pdf - PDF 转换工具
+stirlingtools/stirling-pdf:latest
+
 
 
 
