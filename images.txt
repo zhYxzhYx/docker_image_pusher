@@ -42,8 +42,8 @@ lanol/filecodebox:latest
 # drawdb - 数据库设计工具
 xinsodev/drawdb:latest
 
-# papermerge - 文档管理
-papermerge/papermerge:latest
+# pdf2zh - PDF 翻译
+byaidu/pdf2zh:latest
 
 
 
