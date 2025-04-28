@@ -51,6 +51,9 @@ byaidu/pdf2zh:latest
 # stirling-pdf - PDF 转换工具
 stirlingtools/stirling-pdf:latest
 
+# Excalidraw - 绘图工具
+excalidraw/excalidraw:latest
+
 
 
 
