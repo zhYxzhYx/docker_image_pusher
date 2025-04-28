@@ -12,6 +12,9 @@ jeessy/ddns-go:v6.8.1
 # MySQL - 数据库
 mysql:8.4.4
 
+# PostgresSQL - 数据库
+postgres:17.4
+
 # minio - 分布式对象存储
 minio/minio:RELEASE.2025-03-12T18-04-18Z
 
