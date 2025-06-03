@@ -28,6 +28,12 @@ gitea/gitea:1.23
 # n8n - 自动化工作流
 n8nio/n8n:latest
 
+# Dify - LLM 应用开发平台
+# dify-api
+langgenius/dify-api:main
+# dify-web
+langgenius/dify-web:main
+
 
 
 # ----- 工具类 -----
