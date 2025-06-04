@@ -1,4 +1,12 @@
 
+# ----- Dify 工作流-----
+langgenius/dify-api:1.4.1
+langgenius/dify-web:1.4.1
+
+
+
+
+
 # ----- 1Panel App -----
 # ddns-go - 域名解析
 jeessy/ddns-go:v6.9.2
@@ -28,11 +36,7 @@ gitea/gitea:1.23
 # n8n - 自动化工作流
 n8nio/n8n:latest
 
-# Dify - LLM 应用开发平台
-# dify-api
-langgenius/dify-api:main
-# dify-web
-langgenius/dify-web:main
+
 
 
 
