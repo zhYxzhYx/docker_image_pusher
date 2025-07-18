@@ -62,7 +62,7 @@ gitea/gitea:1.23
 n8nio/n8n:latest
 
 # Adminer - 数据库管理
-adminer:latest
+adminer:5.3.0
 
 
 
