@@ -1,6 +1,13 @@
 
 
 
+# ----- 书签 -----
+postgres:16-alpine
+ghcr.io/linkwarden/linkwarden:latest
+getmeili/meilisearch:v1.12.8
+
+
+
 # ----- 开发类 -----
 # ddns-go - 域名解析
 jeessy/ddns-go:v6.10.0
