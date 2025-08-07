@@ -3,7 +3,7 @@
 
 # ----- 书签 -----
 postgres:16-alpine
-ghcr.io/linkwarden/linkwarden:latest
+ghcr.nju.edu.cn/linkwarden/linkwarden:latest
 getmeili/meilisearch:v1.12.8
 
 
