@@ -1,8 +1,8 @@
 
 
 
-# ----- ZeroTier 虚拟局域网本地部署 -----
-keynetworks/ztncui:latest
+# ----- ZeroTier-Moon 虚拟局域网卫星服务器 -----
+jonnyan404/zerotier-moon:latest
 
 
 
