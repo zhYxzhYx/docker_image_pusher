@@ -2,7 +2,7 @@
 
 
 # ----- 影视聚合播放器 -----
-7x24/moontv:latest
+ghcr.io/senshinya/moontv:latest
 
 # ----- 密码管理器 -----
 vaultwarden/server:latest
