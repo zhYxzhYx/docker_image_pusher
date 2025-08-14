@@ -1,5 +1,9 @@
 
 
+
+# ----- 密码管理器 -----
+vaultwarden/server:latest
+
 # ----- Ai 聊天 -----
 ghcr.io/open-webui/open-webui:main
 
