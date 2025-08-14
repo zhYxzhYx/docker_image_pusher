@@ -1,5 +1,7 @@
 
 
+# ----- Ai 聊天 -----
+ghcr.io/open-webui/open-webui:main
 
 # ----- ZeroTier-Moon 虚拟局域网卫星服务器 -----
 jonnyan404/zerotier-moon:latest
