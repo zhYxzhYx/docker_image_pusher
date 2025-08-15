@@ -2,13 +2,22 @@
 
 
 # ----- 影视聚合播放器 -----
+# 影视聚合播放器
 ghcr.io/senshinya/moontv:latest
+# 录播姬 - B站直播录制
+bililive/recorder:latest
+
+
 
 # ----- 密码管理器 -----
 vaultwarden/server:latest
 
+
+
 # ----- Ai 聊天 -----
 ghcr.io/open-webui/open-webui:main
+
+
 
 # ----- ZeroTier-Moon 虚拟局域网卫星服务器 -----
 jonnyan404/zerotier-moon:latest
