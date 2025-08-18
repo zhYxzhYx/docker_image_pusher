@@ -9,7 +9,7 @@ cnk3x/xunlei:latest
 linuxserver/qbittorrent:latest
 
 # 网盘搜索
-ghcr.io/fish2018/pansou:latest
+ghcr.io/fish2018/pansou-web:latest
 
 
 
