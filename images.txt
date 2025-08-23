@@ -11,6 +11,9 @@ linuxserver/qbittorrent:latest
 # 网盘搜索
 ghcr.io/fish2018/pansou-web:latest
 
+# NAS 导航面板
+hslr/sun-panel:latest
+
 
 
 # ----- 影视聚合播放器 -----
