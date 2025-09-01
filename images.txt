@@ -30,6 +30,8 @@ linzeyi/hivision_idphotos:latest
 excalidraw/excalidraw:latest
 # 白板工具
 pubuzhixing/drawnix:latest
+# 镜像加速
+ghcr.io/xixu-me/xget:latest
 
 # PDF 翻译
 byaidu/pdf2zh:latest
