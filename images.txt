@@ -3,7 +3,7 @@
 
 # ----- 系统 -----
 # 动态域名解析
-jeessy/ddns-go:v6.10.0
+jeessy/ddns-go:latest
 # 反向代理
 1panel/openresty:1.21.4.3-3-3-focal
 
