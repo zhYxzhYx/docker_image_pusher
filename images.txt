@@ -60,6 +60,10 @@ bililive/recorder:latest
 # ----- Ai ----- 智能
 # Ai 聊天
 ghcr.io/open-webui/open-webui:main
+# 视频笔记 - 前端界面
+jefferyhjw/bilinote-frontend:latest
+# 视频笔记 - 后端服务
+jefferyhjw/bilinote-backend:latest
 # n8n - 自动化工作流
 n8nio/n8n:latest
 
