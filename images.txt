@@ -34,6 +34,16 @@ pubuzhixing/drawnix:latest
 xinsodev/drawdb:latest
 # 数据库管理
 adminer:5.3.0
+# PDF 翻译
+byaidu/pdf2zh:latest
+# PDF 处理
+stirlingtools/stirling-pdf:latest
+# 网盘搜索
+ghcr.io/fish2018/pansou-web:latest
+# 影视聚合播放器
+ghcr.io/senshinya/moontv:latest
+# 镜像加速
+ghcr.io/xixu-me/xget:latest
 
 
 
@@ -67,16 +77,7 @@ bililive/recorder:latest
 
 
 # ----- 暂未使用 -----
-# PDF 翻译
-byaidu/pdf2zh:latest
-# PDF 处理
-stirlingtools/stirling-pdf:latest
-# 网盘搜索
-ghcr.io/fish2018/pansou-web:latest
-# 影视聚合播放器
-ghcr.io/senshinya/moontv:latest
-# 镜像加速
-ghcr.io/xixu-me/xget:latest
+
 
 # filecodebox - 文件快递柜
 # lanol/filecodebox:latest
