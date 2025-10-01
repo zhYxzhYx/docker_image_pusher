@@ -1,7 +1,7 @@
 
 
 
-# ----- 系统 -----
+# ----- system ----- 系统
 # 动态域名解析
 jeessy/ddns-go:latest
 # 反向代理
@@ -9,7 +9,45 @@ jeessy/ddns-go:latest
 
 
 
-# ----- 下载 -----
+# ----- service ----- 服务
+# Bitwarden - 密码管理器
+vaultwarden/server:latest
+# minio - 分布式对象存储
+minio/minio:RELEASE.2025-04-22T22-12-26Z
+# Gitea - 代码仓库
+gitea/gitea:1.23
+# MySQL - 数据库
+mysql:8.4.4
+# PostgresSQL - 数据库
+postgres:17.4
+
+
+
+# ----- tools ----- 工具
+# 证件照
+linzeyi/hivision_idphotos:latest
+# 绘图工具
+excalidraw/excalidraw:latest
+# 白板工具
+pubuzhixing/drawnix:latest
+# 数据库设计
+xinsodev/drawdb:latest
+# 数据库管理
+adminer:5.3.0
+# PDF 翻译
+byaidu/pdf2zh:latest
+# PDF 处理
+stirlingtools/stirling-pdf:latest
+# 网盘搜索
+ghcr.io/fish2018/pansou-web:latest
+# 影视聚合播放器
+ghcr.io/senshinya/moontv:latest
+# 镜像加速
+ghcr.io/xixu-me/xget:latest
+
+
+
+# ----- Download ----- 下载
 # 迅雷
 cnk3x/xunlei:latest
 # BT 种子
@@ -19,60 +57,16 @@ bililive/recorder:latest
 
 
 
-# ----- 工具类 -----
-# 导航面板
-hslr/sun-panel:latest
-# 密码管理器
-vaultwarden/server:latest
-# 证件照
-linzeyi/hivision_idphotos:latest
-# 绘图工具
-excalidraw/excalidraw:latest
-# 白板工具
-pubuzhixing/drawnix:latest
-# 镜像加速
-ghcr.io/xixu-me/xget:latest
-
-# PDF 翻译
-byaidu/pdf2zh:latest
-# PDF 处理
-stirlingtools/stirling-pdf:latest
-# 数据库设计
-xinsodev/drawdb:latest
-# 数据库管理
-adminer:5.3.0
-
-
-
-# ----- 影视 -----
-# 网盘搜索
-ghcr.io/fish2018/pansou-web:latest
-# 影视聚合播放器
-ghcr.io/senshinya/moontv:latest
-
-
-
-# ----- Ai -----
+# ----- Ai ----- 智能
 # Ai 聊天
 ghcr.io/open-webui/open-webui:main
-
-
-
-# ----- 开发 -----
-# MySQL - 数据库
-mysql:8.4.4
-
-# PostgresSQL - 数据库
-postgres:17.4
-
-# minio - 分布式对象存储
-minio/minio:RELEASE.2025-03-12T18-04-18Z
-
-# Gitea - 代码仓库
-gitea/gitea:1.23
-
 # n8n - 自动化工作流
 n8nio/n8n:latest
+
+
+
+
+
 
 
 
@@ -100,40 +94,8 @@ n8nio/n8n:latest
 # JupyterLab
 # andreper/jupyterlab:latest
 
-# gitlab-ce - 代码仓库 (社区版)
-#gitlab/gitlab-ce:17.10.1-ce.0
 
 
-
-# ----- Dify 工作流-----
-#langgenius/dify-api:1.4.1
-#langgenius/dify-web:1.4.1
-
-#langgenius/dify-sandbox:0.2.12
-#langgenius/dify-plugin-daemon:0.1.1-local
-#langgenius/qdrant:v1.7.3
-#ubuntu/squid:latest
-#nginx:latest
-#postgres:15-alpine
-#redis:6-alpine
-#certbot/certbot
-#semitechnologies/weaviate:1.19.0
-#pgvector/pgvector:pg16
-##vastdata/vastbase-vector
-#tensorchord/pgvecto-rs:pg16-v0.3.0
-#ghcr.io/chroma-core/chroma:0.5.20
-#oceanbase/oceanbase-ce:4.3.5.1-101000042025031818
-#container-registry.oracle.com/database/free:latest
-#quay.io/coreos/etcd:v3.5.5
-#minio/minio:RELEASE.2023-03-20T20-16-18Z
-#milvusdb/milvus:v2.5.0-beta
-#opensearchproject/opensearch:latest
-#opensearchproject/opensearch-dashboards:latest
-#opengauss/opengauss:7.0.0-RC1
-#myscale/myscaledb:1.6.4
-#docker.elastic.co/elasticsearch/elasticsearch:8.14.3
-#docker.elastic.co/kibana/kibana:8.14.3
-#downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
 
 
