@@ -12,7 +12,7 @@ jeessy/ddns-go:latest
 # ----- service ----- 服务
 # Bitwarden - 密码管理器
 vaultwarden/server:latest
-# minio - 分布式对象存储
+# minio - 对象存储
 minio/minio:RELEASE.2025-04-22T22-12-26Z
 # Gitea - 代码仓库
 gitea/gitea:1.23
