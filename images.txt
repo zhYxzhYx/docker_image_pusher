@@ -34,26 +34,6 @@ pubuzhixing/drawnix:latest
 xinsodev/drawdb:latest
 # 数据库管理
 adminer:5.3.0
-# PDF 翻译
-byaidu/pdf2zh:latest
-# PDF 处理
-stirlingtools/stirling-pdf:latest
-# 网盘搜索
-ghcr.io/fish2018/pansou-web:latest
-# 影视聚合播放器
-ghcr.io/senshinya/moontv:latest
-# 镜像加速
-ghcr.io/xixu-me/xget:latest
-
-
-
-# ----- Download ----- 下载
-# 迅雷
-cnk3x/xunlei:latest
-# BT 种子
-linuxserver/qbittorrent:latest
-# B 站直播录制
-bililive/recorder:latest
 
 
 
@@ -69,6 +49,17 @@ n8nio/n8n:latest
 
 
 
+# ----- Download ----- 下载
+# 迅雷
+cnk3x/xunlei:latest
+# BT 种子
+linuxserver/qbittorrent:latest
+# B 站直播录制
+bililive/recorder:latest
+
+
+
+
 
 
 
@@ -76,6 +67,17 @@ n8nio/n8n:latest
 
 
 # ----- 暂未使用 -----
+# PDF 翻译
+byaidu/pdf2zh:latest
+# PDF 处理
+stirlingtools/stirling-pdf:latest
+# 网盘搜索
+ghcr.io/fish2018/pansou-web:latest
+# 影视聚合播放器
+ghcr.io/senshinya/moontv:latest
+# 镜像加速
+ghcr.io/xixu-me/xget:latest
+
 # filecodebox - 文件快递柜
 # lanol/filecodebox:latest
 
