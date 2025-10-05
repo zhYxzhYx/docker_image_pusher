@@ -2,20 +2,22 @@
 
 
 # ----- system ----- 系统
-# 动态域名解析
-jeessy/ddns-go:latest
 # 反向代理
 1panel/openresty:1.21.4.3-3-3-focal
+# 动态域名解析
+jeessy/ddns-go:latest
+# 导航面板
+hslr/sun-panel:latest
 
 
 
 # ----- service ----- 服务
 # Bitwarden - 密码管理器
 vaultwarden/server:latest
-# minio - 对象存储
-minio/minio:RELEASE.2025-04-22T22-12-26Z
 # Gitea - 代码仓库
 gitea/gitea:1.23
+# minio - 对象存储
+minio/minio:RELEASE.2025-04-22T22-12-26Z
 # MySQL - 数据库
 mysql:8.4.4
 # PostgresSQL - 数据库
@@ -30,20 +32,30 @@ linzeyi/hivision_idphotos:latest
 excalidraw/excalidraw:latest
 # 白板工具
 pubuzhixing/drawnix:latest
-# 数据库设计
-xinsodev/drawdb:latest
-# 数据库管理
-adminer:5.3.0
 # PDF 翻译
 byaidu/pdf2zh:latest
 # PDF 处理
 stirlingtools/stirling-pdf:latest
+# 数据库设计
+xinsodev/drawdb:latest
+# 数据库管理
+adminer:5.3.0
 # 网盘搜索
 ghcr.io/fish2018/pansou-web:latest
 # 影视聚合播放器
 ghcr.io/senshinya/moontv:latest
 # 镜像加速
 ghcr.io/xixu-me/xget:latest
+
+
+
+# ----- Download ----- 下载
+# 迅雷
+cnk3x/xunlei:latest
+# BT 种子下载
+linuxserver/qbittorrent:latest
+# 录播姬
+bililive/recorder:latest
 
 
 
@@ -56,18 +68,6 @@ jefferyhjw/bilinote-frontend:latest
 jefferyhjw/bilinote-backend:latest
 # n8n - 自动化工作流
 n8nio/n8n:latest
-
-
-
-# ----- Download ----- 下载
-# 迅雷
-cnk3x/xunlei:latest
-# BT 种子
-linuxserver/qbittorrent:latest
-# B 站直播录制
-bililive/recorder:latest
-
-
 
 
 
