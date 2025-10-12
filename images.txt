@@ -26,6 +26,8 @@ postgres:17.4
 
 
 # ----- tools ----- 工具
+# 在线 PS
+ramuses/photopea:latest
 # 证件照
 linzeyi/hivision_idphotos:latest
 # 绘图工具
@@ -42,10 +44,8 @@ xinsodev/drawdb:latest
 adminer:5.3.0
 # 网盘搜索
 ghcr.io/fish2018/pansou-web:latest
-# 影视聚合播放器
+# 影视聚合
 ghcr.io/senshinya/moontv:latest
-# 镜像加速
-ghcr.io/xixu-me/xget:latest
 
 
 
@@ -77,7 +77,8 @@ n8nio/n8n:latest
 
 
 # ----- 暂未使用 -----
-
+# 镜像加速
+ghcr.io/xixu-me/xget:latest
 
 # filecodebox - 文件快递柜
 # lanol/filecodebox:latest
