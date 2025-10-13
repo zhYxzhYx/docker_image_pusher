@@ -1,9 +1,9 @@
 
 
+# 在线数据库表格
+nocodb/nocodb:latest
 
 # ----- system ----- 系统
-# 反向代理
-1panel/openresty:1.21.4.3-3-3-focal
 # 动态域名解析
 jeessy/ddns-go:latest
 # 导航面板
@@ -66,8 +66,7 @@ adminer:5.3.0
 jefferyhjw/bilinote-frontend:latest
 # 视频笔记 - 后端服务
 jefferyhjw/bilinote-backend:latest
-# 在线数据库表格
-nocodb/nocodb:latest
+
 
 
 
@@ -78,6 +77,9 @@ nocodb/nocodb:latest
 
 
 # ----- 暂未使用 -----
+# 反向代理
+1panel/openresty:1.21.4.3-3-3-focal
+
 # n8n - 自动化工作流
 n8nio/n8n:latest
 
