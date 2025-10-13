@@ -38,10 +38,6 @@ pubuzhixing/drawnix:latest
 byaidu/pdf2zh:latest
 # PDF 处理
 stirlingtools/stirling-pdf:latest
-# 数据库设计
-xinsodev/drawdb:latest
-# 数据库管理
-adminer:5.3.0
 # 网盘搜索
 ghcr.io/fish2018/pansou-web:latest
 # 影视聚合
@@ -59,15 +55,19 @@ bililive/recorder:latest
 
 
 
-# ----- Ai ----- 智能
+# ----- dev ----- 开发
 # Ai 聊天
 ghcr.io/open-webui/open-webui:main
+# 数据库设计
+xinsodev/drawdb:latest
+# 数据库管理
+adminer:5.3.0
 # 视频笔记 - 前端界面
 jefferyhjw/bilinote-frontend:latest
 # 视频笔记 - 后端服务
 jefferyhjw/bilinote-backend:latest
-# n8n - 自动化工作流
-n8nio/n8n:latest
+# 在线数据库表格
+nocodb/nocodb:latest
 
 
 
@@ -77,6 +77,9 @@ n8nio/n8n:latest
 
 
 # ----- 暂未使用 -----
+# n8n - 自动化工作流
+n8nio/n8n:latest
+
 # 镜像加速
 ghcr.io/xixu-me/xget:latest
 
