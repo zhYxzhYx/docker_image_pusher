@@ -1,7 +1,5 @@
 
 
-# 在线数据库表格
-nocodb/nocodb:latest
 
 # ----- system ----- 系统
 # 动态域名解析
@@ -60,8 +58,8 @@ bililive/recorder:latest
 ghcr.io/open-webui/open-webui:main
 # 数据库设计
 xinsodev/drawdb:latest
-# 数据库管理
-adminer:5.3.0
+# 在线数据库表格
+nocodb/nocodb:latest
 # 视频笔记 - 前端界面
 jefferyhjw/bilinote-frontend:latest
 # 视频笔记 - 后端服务
