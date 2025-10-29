@@ -64,6 +64,8 @@ nocodb/nocodb:latest
 jefferyhjw/bilinote-frontend:latest
 # 视频笔记 - 后端服务
 jefferyhjw/bilinote-backend:latest
+# 自建即时通讯
+privoce/vocechat-server:latest
 
 
 
