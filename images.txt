@@ -45,7 +45,7 @@ stirlingtools/stirling-pdf:latest
 # 网盘搜索
 ghcr.io/fish2018/pansou-web:latest
 # 影视聚合
-ghcr.io/senshinya/moontv:latest
+ghcr.io/moontechlab/lunatv:latest
 
 
 
