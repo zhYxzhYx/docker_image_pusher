@@ -1,13 +1,7 @@
 
-
-
-
-
 # ----- system ----- 系统
 # 动态域名解析
 jeessy/ddns-go:latest
-# 导航面板
-hslr/sun-panel:latest
 
 
 
@@ -18,10 +12,20 @@ vaultwarden/server:latest
 gitea/gitea:1.23
 # minio - 对象存储
 minio/minio:RELEASE.2025-04-22T22-12-26Z
-# MySQL - 数据库
-mysql:8.4.4
 # PostgresSQL - 数据库
 postgres:17.4
+# MySQL - 数据库
+mysql:8.4.4
+
+
+
+# ----- Download ----- 下载
+# 迅雷
+cnk3x/xunlei:latest
+# BT 种子下载
+linuxserver/qbittorrent:latest
+# 录播姬
+bililive/recorder:latest
 
 
 
@@ -45,16 +49,6 @@ ghcr.io/senshinya/moontv:latest
 
 
 
-# ----- Download ----- 下载
-# 迅雷
-cnk3x/xunlei:latest
-# BT 种子下载
-linuxserver/qbittorrent:latest
-# 录播姬
-bililive/recorder:latest
-
-
-
 # ----- dev ----- 开发
 # Ai 聊天
 ghcr.io/open-webui/open-webui:main
@@ -66,12 +60,10 @@ nocodb/nocodb:latest
 jefferyhjw/bilinote-frontend:latest
 # 视频笔记 - 后端服务
 jefferyhjw/bilinote-backend:latest
+# n8n - 自动化工作流
+n8nio/n8n:latest
 # 自建即时通讯
 privoce/vocechat-server:latest
-
-
-
-
 
 
 
@@ -80,9 +72,6 @@ privoce/vocechat-server:latest
 # ----- 暂未使用 -----
 # 反向代理
 1panel/openresty:1.21.4.3-3-3-focal
-
-# n8n - 自动化工作流
-n8nio/n8n:latest
 
 # 镜像加速
 ghcr.io/xixu-me/xget:latest
@@ -107,7 +96,6 @@ ghcr.io/xixu-me/xget:latest
 
 # JupyterLab
 # andreper/jupyterlab:latest
-
 
 
 
