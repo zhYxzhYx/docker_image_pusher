@@ -52,6 +52,7 @@ ghcr.io/moontechlab/lunatv:latest
 # ----- dev ----- 开发
 # Ai 聊天
 ghcr.io/open-webui/open-webui:main
+
 # 数据库设计
 xinsodev/drawdb:latest
 # 在线数据库表格
