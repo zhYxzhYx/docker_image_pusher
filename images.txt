@@ -52,7 +52,6 @@ ghcr.io/moontechlab/lunatv:latest
 # ----- dev ----- 开发
 # Ai 聊天
 ghcr.io/open-webui/open-webui:main
-
 # 数据库设计
 xinsodev/drawdb:latest
 # 在线数据库表格
@@ -74,6 +73,9 @@ privoce/vocechat-server:latest
 # 反向代理
 1panel/openresty:1.21.4.3-3-3-focal
 
+# Nginx
+# nginx:latest
+
 # 镜像加速
 ghcr.io/xixu-me/xget:latest
 
@@ -91,9 +93,6 @@ ghcr.io/xixu-me/xget:latest
 
 # portainer-ce
 # portainer/portainer-ce:2.9.3
-
-# Nginx
-# nginx:latest
 
 # JupyterLab
 # andreper/jupyterlab:latest
