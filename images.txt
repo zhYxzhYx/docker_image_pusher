@@ -46,6 +46,10 @@ stirlingtools/stirling-pdf:latest
 ghcr.io/fish2018/pansou-web:latest
 # 影视聚合
 ghcr.io/moontechlab/lunatv:latest
+# 商业 BI 工具
+metabase/metabase:latest
+# 文件快递柜
+lanol/filecodebox:latest
 
 
 
@@ -60,42 +64,35 @@ nocodb/nocodb:latest
 jefferyhjw/bilinote-frontend:latest
 # 视频笔记 - 后端服务
 jefferyhjw/bilinote-backend:latest
-# n8n - 自动化工作流
+# 自动化工作流
 n8nio/n8n:latest
-# 自建即时通讯
+# 即时通讯
 privoce/vocechat-server:latest
+# Python Web 开发环境
+andreper/jupyterlab:latest
 
 
 
 
 
 # ----- 暂未使用 -----
-# 反向代理
-1panel/openresty:1.21.4.3-3-3-focal
+# Nginx - 反向代理
+nginx:latest
 
-# Nginx
-# nginx:latest
+# openresty - 反向代理
+1panel/openresty:1.21.4.3-3-3-focal
 
 # 镜像加速
 ghcr.io/xixu-me/xget:latest
 
-# filecodebox - 文件快递柜
-# lanol/filecodebox:latest
-
-# metabase - 商业 BI 工具
-# metabase/metabase:latest
-
 # docker-wechat - Web 版微信
-# ricwang/docker-wechat:latest
-
-# 虚拟局域网卫星服务
-# jonnyan404/zerotier-moon:latest
+ricwang/docker-wechat:latest
 
 # portainer-ce
 # portainer/portainer-ce:2.9.3
 
-# JupyterLab
-# andreper/jupyterlab:latest
+# 虚拟局域网卫星服务
+# jonnyan404/zerotier-moon:latest
 
 
 
