@@ -1,10 +1,4 @@
 
-# ----- system ----- 系统
-# 动态域名解析
-jeessy/ddns-go:latest
-
-
-
 # ----- service ----- 服务
 # Bitwarden - 密码管理器
 vaultwarden/server:latest
@@ -76,6 +70,9 @@ andreper/jupyterlab:latest
 
 
 # ----- 暂未使用 -----
+# 动态域名解析
+jeessy/ddns-go:latest
+
 # Nginx - 反向代理
 nginx:latest
 
