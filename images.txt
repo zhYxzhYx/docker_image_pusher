@@ -71,19 +71,19 @@ jefferyhjw/bilinote-backend:latest
 
 
 # ---------- design ---------- 设计
-# 在线 PS
+# Photopea - 在线图片编辑
 ramuses/photopea:latest
 
-# 证件照
+# HivisionIDPhotos - 证件照
 linzeyi/hivision_idphotos:latest
 
-# 绘图工具
+# Excalidraw - 绘图工具
 excalidraw/excalidraw:latest
 
-# 白板工具
+# Drawnix - 白板工具
 pubuzhixing/drawnix:latest
 
-# 数据库设计
+# drawDB - 数据库设计
 xinsodev/drawdb:latest
 
 
@@ -103,10 +103,6 @@ stirlingtools/stirling-pdf:latest
 
 # PDFMathTranslate - PDF 翻译
 byaidu/pdf2zh:latest
-
-
-
-
 
 
 
