@@ -20,16 +20,6 @@ postgres:17.4
 
 
 
-# ---------- dev ---------- 开发
-
-# n8n - 自动化工作流
-n8nio/n8n:latest
-
-# JupyterLab - Python 开发环境
-andreper/jupyterlab:latest
-
-
-
 # ---------- download ---------- 下载
 # XunLei - 迅雷下载
 cnk3x/xunlei:latest
@@ -39,6 +29,16 @@ linuxserver/qbittorrent:latest
 
 # BiliLive - 录播姬
 bililive/recorder:latest
+
+
+
+# ---------- dev ---------- 开发
+
+# n8n - 自动化工作流
+n8nio/n8n:latest
+
+# JupyterLab - Python 开发环境
+andreper/jupyterlab:latest
 
 
 
