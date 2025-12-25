@@ -48,7 +48,7 @@ ghcr.io/open-webui/open-webui:main
 privoce/vocechat-server:latest
 
 # Docker WeChat - Web 微信
-ricwang/docker-wechat:latest
+smanx/docker-wechat:dev
 
 
 
