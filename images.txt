@@ -1,4 +1,4 @@
-smanx/docker-wechat:latest
+
 # ---------- service ---------- 服务
 
 # Bitwarden - 密码管理器
