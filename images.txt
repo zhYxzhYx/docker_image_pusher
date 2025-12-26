@@ -107,31 +107,20 @@ byaidu/pdf2zh:latest
 
 
 # ---------- 暂未使用 ----------
-# 动态域名解析
+# DDNS Go - 动态域名解析
 jeessy/ddns-go:latest
 
 # Nginx - 反向代理
 nginx:latest
 
-# openresty - 反向代理
+# OpenResty - 反向代理
 1panel/openresty:1.21.4.3-3-3-focal
 
-# 镜像加速
+# Xget - 镜像加速
 ghcr.io/xixu-me/xget:latest
 
-# portainer-ce
-# portainer/portainer-ce:2.9.3
+# Portainer - Docker 图形管理界面
+portainer/portainer-ce:2.9.3
 
-# 虚拟局域网卫星服务
-# jonnyan404/zerotier-moon:latest
-
-
-
-
-
-# ---------- 使用方法 ----------
-# 支持私库
-# k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-# xhofe/list:最新
-# 支持指定架构
-# -platform = Linux/arm 64刘/list
+# ZeroTier Moon - 虚拟局域网卫星服务
+jonnyan404/zerotier-moon:latest
