@@ -66,6 +66,8 @@ jefferyhjw/bilinote-frontend:latest
 # BiliNote - 视频笔记 (后端)
 jefferyhjw/bilinote-backend:latest
 
+# Memos - 自托管笔记
+neosmemo/memos:stable
 
 
 # ---------- design ---------- 设计
