@@ -1,11 +1,5 @@
 
-# ---------- cert-mgr-sys ---------- 证书管理系统
-postgres:13-alpine
-redis:6-alpine
-minio/minio:latest
-nginx:alpine
-dpage/pgadmin4:latest
-redislabs/redisinsight:latest
+
 
 # ---------- service ---------- 服务
 
@@ -116,6 +110,14 @@ stirlingtools/stirling-pdf:latest
 byaidu/pdf2zh:latest
 
 
+
+# ---------- cert-mgr-sys ---------- 证书管理系统
+postgres:13-alpine
+redis:6-alpine
+minio/minio:latest
+nginx:alpine
+dpage/pgadmin4:latest
+redislabs/redisinsight:latest
 
 
 
