@@ -46,6 +46,9 @@ n8nio/n8n:latest
 # JupyterLab - Python 开发环境
 andreper/jupyterlab:latest
 
+# 安卓模拟器 (14.0 系统)
+budtmo/docker-android:emulator_14.0
+
 
 
 # ---------- chat ---------- 聊天
