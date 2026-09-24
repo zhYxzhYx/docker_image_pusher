@@ -83,6 +83,7 @@ jefferyhjw/bilinote-backend:latest
 neosmemo/memos:stable
 
 
+
 # ---------- design ---------- 设计
 # Photopea - 在线图片编辑
 ramuses/photopea:latest
@@ -98,6 +99,9 @@ pubuzhixing/drawnix:latest
 
 # drawDB - 数据库设计
 xinsodev/drawdb:latest
+
+# PicLite - 图轻
+ghcr.io/amiaoapp/piclite:latest
 
 
 
